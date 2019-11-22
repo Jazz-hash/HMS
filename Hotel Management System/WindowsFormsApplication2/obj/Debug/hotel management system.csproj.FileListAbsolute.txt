@@ -1,0 +1,176 @@
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\hotel management system.csprojResolveAssemblyReference.cache
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DashboardOwner.resources
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Register.resources
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\hotel management system.csproj.GenerateResource.Cache
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Login.resources
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DashboardManager.resources
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\FlashControlV71.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\MaterialSkin.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\MetroFramework.Design.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\MetroFramework.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\stdole.dll
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\std\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\FlashControlV71.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\MaterialSkin.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\MetroFramework.Design.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\MetroFramework.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\stdole.dll
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DashboardOwner.resources
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DashboardManager.resources
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Login.resources
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Register.resources
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\hotel management system.csproj.GenerateResource.Cache
+C:\Users\std\Downloads\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\hotel management system.csprojResolveAssemblyReference.cache
+C:\Users\Furqan Ali\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\hotel management system.csprojAssemblyReference.cache
+C:\Users\Furqan Ali\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DashboardOwner.resources
+C:\Users\Furqan Ali\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DashboardManager.resources
+C:\Users\Furqan Ali\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Furqan Ali\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Login.resources
+C:\Users\Furqan Ali\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Furqan Ali\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Register.resources
+C:\Users\Furqan Ali\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\hotel management system.csproj.GenerateResource.cache
+C:\Users\Furqan Ali\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Furqan Ali\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\Bunifu_UI_v1.5.3.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportSource.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.Shared.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.Windows.Forms.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\FlashControlV71.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\MaterialSkin.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\MetroFramework.Design.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\MetroFramework.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\MetroFramework.Fonts.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\ShockwaveFlashObjects.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\stdole.dll
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+I:\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+I:\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\hotel management system.csprojAssemblyReference.cache
+I:\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DashboardOwner.resources
+I:\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DashboardManager.resources
+I:\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+I:\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Login.resources
+I:\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+I:\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Register.resources
+I:\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\hotel management system.csproj.GenerateResource.cache
+I:\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\hotel management system.csproj.CoreCompileInputs.cache
+I:\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\hotel management system.csproj.CopyComplete
+I:\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+I:\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\EntityFramework.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\FlashControlV71.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\MaterialSkin.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\MetroFramework.Design.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\MetroFramework.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\stdole.dll
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\EntityFramework.xml
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\hotel management system.csprojAssemblyReference.cache
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DashboardOwner.resources
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DashboardManager.resources
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Login.resources
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Register.resources
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\hotel management system.csproj.GenerateResource.cache
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\hotel management system.csproj.CoreCompileInputs.cache
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\hotel management system.csproj.CopyComplete
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\JAZZEL\Desktop\Hotel Management System updated\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
